@@ -1,3 +1,6 @@
+'''
+https://stepik.org/lesson/3378/step/3?unit=961
+'''
 import requests
 
 first_links = input()
