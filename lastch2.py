@@ -13,8 +13,6 @@ for i in range(len(string)):
      if chstring[i] not in zdict:
         zdict[chstring[i]]=string[i]
 
-print(dict)
-print(zdict)
 
 for i in range(len(fstring)):
    print(dict[fstring[i]],end="")
